@@ -1,0 +1,15 @@
+INSERT INTO clients(name, cpf, income, birth_date, children) VALUES ('Antonio de Oliveira Sampaio', '50855488093', 12000.00, '1976-06-05', 1);
+INSERT INTO clients(name, cpf, income, birth_date, children) VALUES ('Denise de Araujo', '33270012004', 8000.00, '1978-12-06', 1);
+INSERT INTO clients(name, cpf, income, birth_date, children) VALUES ('Lucas Martins Fontes', '19354422012', 1700.00, '2006-09-04', 2);
+INSERT INTO clients(name, cpf, income, birth_date, children) VALUES ('Geni Alves da Silva', '06033388011', 3300.00, '1988-04-20', 4);
+INSERT INTO clients(name, cpf, income, birth_date, children) VALUES ('Osvaldo Pereira da Silva', '72050965028', 7200.00, '1980-02-12', 3);
+INSERT INTO clients(name, cpf, income, birth_date, children) VALUES ('Ana Paula do Nascimento', '96247404026', 7500.00, '2001-06-22', 1);
+INSERT INTO clients(name, cpf, income, birth_date, children) VALUES ('Arthur Furlan Junior', '86622657076', 6256.00, '2002-10-23', 2);
+INSERT INTO clients(name, cpf, income, birth_date, children) VALUES ('Maria Eduarda Santos', '99279702009', 4790.00, '1990-03-15', 3);
+INSERT INTO clients(name, cpf, income, birth_date, children) VALUES ('Basilio Jose Reis', '91448823005', 5000.00, '2020-10-02', 0);
+INSERT INTO clients(name, cpf, income, birth_date, children) VALUES ('Rosinei Aparecida Pimentel', '90308404041', 3500.00, '2005-11-09', 2);
+INSERT INTO clients(name, cpf, income, birth_date, children) VALUES ('Eduardo Cesar Filho', '95096486044', 2500.00, '1977-05-06', 5);
+INSERT INTO clients(name, cpf, income, birth_date, children) VALUES ('Carlos Eduardo dos Santos', '25544239037', 9500.00, '2004-07-27', 1);
+INSERT INTO clients(name, cpf, income, birth_date, children) VALUES ('Matheus Araujo da Silva', '27348005004', 1480.00, '2000-03-15', 2);
+INSERT INTO clients(name, cpf, income, birth_date, children) VALUES ('Laercio Miguel Davila', '61915438080', 6780.00, '1998-10-02', 3);
+INSERT INTO clients(name, cpf, income, birth_date, children) VALUES ('Jose Marques Matos', '04594109039', 10000.00, '2007-04-21', 1);
